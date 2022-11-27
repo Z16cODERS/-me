@@ -38,6 +38,8 @@ body{
 .home_right{
     width: 50%;
     text-align: center;
+    color:"red";
+    color:"violet";
 }
 .web_designer{
     font-size: 110px;
